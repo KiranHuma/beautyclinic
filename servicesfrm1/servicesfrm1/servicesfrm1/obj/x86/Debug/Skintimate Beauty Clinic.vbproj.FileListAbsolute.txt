@@ -1,0 +1,58 @@
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.exe.config
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.exe
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.pdb
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.xml
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.MainFrom1.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.prodcutfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ratesfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.regmmberfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.reservationfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.inventryfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.Resources.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.getmembrdata.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.memberReport.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbproj.GenerateResource.Cache
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.exe
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.xml
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.pdb
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.productreporfrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.prodctreportview.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbproj.ResolveComReference.cache
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbprojResolveAssemblyReference.cache
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ProductSaleReportFrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ProductsSaleExports.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ServicesSaleExport.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ServicesSaleReportFrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ReportsAndExportFrm.resources
+F:\Erozgar\Beauty clinic\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.loginfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.exe.config
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbproj.ResolveComReference.cache
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.exe
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.xml
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.pdb
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.exe
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.pdb
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.xml
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.loginfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.MainFrom1.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.prodcutfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ratesfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.regmmberfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.reservationfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ReportsAndExportFrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.inventryfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.Resources.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.getmembrdata.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.memberReport.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.prodctreportview.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.productreporfrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ProductSaleReportFrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ProductsSaleExports.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ServicesSaleExport.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.ServicesSaleReportFrm.resources
+C:\Users\Aimal\Downloads\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbproj.GenerateResource.Cache
+C:\Users\Aimal\Downloads\beauty-clinic\servicesfrm1\servicesfrm1\servicesfrm1\bin\Debug\servicesfrm1.exe.config
+C:\Users\Aimal\Downloads\beauty-clinic\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\Skintimate Beauty Clinic.vbproj.ResolveComReference.cache
+C:\Users\Aimal\Downloads\beauty-clinic\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.exe
+C:\Users\Aimal\Downloads\beauty-clinic\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.xml
+C:\Users\Aimal\Downloads\beauty-clinic\servicesfrm1\servicesfrm1\servicesfrm1\obj\x86\Debug\servicesfrm1.pdb

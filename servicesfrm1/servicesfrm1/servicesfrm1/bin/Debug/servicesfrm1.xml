@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+servicesfrm1
+</name>
+</assembly>
+<members>
+<member name="P:servicesfrm1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.mainimage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.mainimagee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.skintimate">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:servicesfrm1.My.Resources.Resources.skintimatenotihng">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:servicesfrm1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventrryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_memberregDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_productsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_ratesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_reservationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventrryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_memberregRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_productsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_ratesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_reservationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventrryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_inventryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_memberregRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_productsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_ratesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet.tbl_reservationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_inventrryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_inventryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_memberregTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_productsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_ratesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.tbl_reservationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(servicesfrm1.mainclinicdbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(servicesfrm1.mainclinicdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(servicesfrm1.mainclinicdbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.UpdateAll(servicesfrm1.mainclinicdbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:servicesfrm1.mainclinicdbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
